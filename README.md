@@ -1,2 +1,2 @@
 # Studies-and-projects-in-JavaScript
-Cisco Project
+Below are the projects and exercises showcasing my JavaScript skills.
